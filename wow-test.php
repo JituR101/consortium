@@ -159,153 +159,153 @@ Set in a post war era this platform allows the participants to represent their o
 
 
     Q6. The Reserve Bank of India has launched which app to help the visually challenged identify the denomination of currency notes?</br></br>
-    <input type="checkbox" name="answer5" value="a">a) INSIGHT.</br>
-    <input type="checkbox" name="answer5" value="b">b) Surya.</br>
-    <input type="checkbox" name="answer5" value="c">c) MANI.</br>
-    <input type="checkbox" name="answer5" value="d">d) ABLE.</br>
+    <input type="checkbox" name="answer6" value="a">a) INSIGHT.</br>
+    <input type="checkbox" name="answer6" value="b">b) Surya.</br>
+    <input type="checkbox" name="answer6" value="c">c) MANI.</br>
+    <input type="checkbox" name="answer6" value="d">d) ABLE.</br>
     </br></br></br>
 
     Q7. Which country has recently declared Fire Emergency ?</br></br>
-    <input type="checkbox" name="answer5" value="a">a) Brazil.</br>
-    <input type="checkbox" name="answer5" value="b">b) Australia.</br>
-    <input type="checkbox" name="answer5" value="c">c) South Sudan.</br>
-    <input type="checkbox" name="answer5" value="d">d) Chile.</br>
+    <input type="checkbox" name="answer7" value="a">a) Brazil.</br>
+    <input type="checkbox" name="answer7" value="b">b) Australia.</br>
+    <input type="checkbox" name="answer7" value="c">c) South Sudan.</br>
+    <input type="checkbox" name="answer7" value="d">d) Chile.</br>
     </br></br></br>
 
     Q8. Who has been named as the most famous teenager in the world by the United Nations?</br></br>
-    <input type="checkbox" name="answer5" value="a">a) Greta Thunberg.</br>
-    <input type="checkbox" name="answer5" value="b">b) Malala Yousafzai.</br>
-    <input type="checkbox" name="answer5" value="c">c) Millie Bobby Brown.</br>
-    <input type="checkbox" name="answer5" value="d">d) Storm Reid.</br>
+    <input type="checkbox" name="answer8" value="a">a) Greta Thunberg.</br>
+    <input type="checkbox" name="answer8" value="b">b) Malala Yousafzai.</br>
+    <input type="checkbox" name="answer8" value="c">c) Millie Bobby Brown.</br>
+    <input type="checkbox" name="answer8" value="d">d) Storm Reid.</br>
     </br></br></br>
 
     Q9. Which party won majority in the UK elections 2019?</br></br>
-    <input type="checkbox" name="answer5" value="a">a) Labour Party.</br>
-    <input type="checkbox" name="answer5" value="b">b) Conservative Party.</br>
-    <input type="checkbox" name="answer5" value="c">c) Scottish National Party.</br>
-    <input type="checkbox" name="answer5" value="d">d) Liberal Democrat’s.</br>
+    <input type="checkbox" name="answer9" value="a">a) Labour Party.</br>
+    <input type="checkbox" name="answer9" value="b">b) Conservative Party.</br>
+    <input type="checkbox" name="answer9" value="c">c) Scottish National Party.</br>
+    <input type="checkbox" name="answer9" value="d">d) Liberal Democrat’s.</br>
     </br></br></br>
 
     Q10. Which former President was awarded with the death penalty for unlawfully imposing emergency in 2007?</br></br>
-    <input type="checkbox" name="answer5" value="a">a) Mengistu Haile Mariam.</br>
-    <input type="checkbox" name="answer5" value="b">b) Nawaz Sharif.</br>
-    <input type="checkbox" name="answer5" value="c">c) Pervez Musharraf.</br>
-    <input type="checkbox" name="answer5" value="d">d) Tafari Benti.</br>
+    <input type="checkbox" name="answer10" value="a">a) Mengistu Haile Mariam.</br>
+    <input type="checkbox" name="answer10" value="b">b) Nawaz Sharif.</br>
+    <input type="checkbox" name="answer10" value="c">c) Pervez Musharraf.</br>
+    <input type="checkbox" name="answer10" value="d">d) Tafari Benti.</br>
     </br></br></br>
 
     Q11. Which country has recently left the European Union?</br></br>
-    <input type="checkbox" name="answer5" value="a">a) Austria.</br>
-    <input type="checkbox" name="answer5" value="b">b) Belgium.</br>
-    <input type="checkbox" name="answer5" value="c">c) Britain.</br>
-    <input type="checkbox" name="answer5" value="d">d) Denmark.</br>
+    <input type="checkbox" name="answer11" value="a">a) Austria.</br>
+    <input type="checkbox" name="answer11" value="b">b) Belgium.</br>
+    <input type="checkbox" name="answer11" value="c">c) Britain.</br>
+    <input type="checkbox" name="answer11" value="d">d) Denmark.</br>
     </br></br></br>
 
     Q12. India has allowed which Chinese telecom company to participate in conducting trials for 5G network in India?</br></br>
-    <input type="checkbox" name="answer5" value="a">a) Coolpad</br>
-    <input type="checkbox" name="answer5" value="b">b) Alcatel OneTouch/TCL.</br>
-    <input type="checkbox" name="answer5" value="c">c) Gionee.</br>
-    <input type="checkbox" name="answer5" value="d">d) Huawei.</br>
+    <input type="checkbox" name="answer12" value="a">a) Coolpad</br>
+    <input type="checkbox" name="answer12" value="b">b) Alcatel OneTouch/TCL.</br>
+    <input type="checkbox" name="answer12" value="c">c) Gionee.</br>
+    <input type="checkbox" name="answer12" value="d">d) Huawei.</br>
     </br></br></br>
 
     Q13. Which country announced Indian rupee as a Legal tender on Jan 29, 2014.</br></br>
-    <input type="checkbox" name="answer5" value="a">a) Zimbabwe.</br>
-    <input type="checkbox" name="answer5" value="b">b) North Korea.</br>
-    <input type="checkbox" name="answer5" value="c">c) Japan.</br>
-    <input type="checkbox" name="answer5" value="d">d) Russia.</br>
+    <input type="checkbox" name="answer13" value="a">a) Zimbabwe.</br>
+    <input type="checkbox" name="answer13" value="b">b) North Korea.</br>
+    <input type="checkbox" name="answer13" value="c">c) Japan.</br>
+    <input type="checkbox" name="answer13" value="d">d) Russia.</br>
     </br></br></br>
 
     Q14. Which bank is known as the Banker's bank of India?</br></br>
-    <input type="checkbox" name="answer5" value="a">a) SBI.</br>
-    <input type="checkbox" name="answer5" value="b">b) RBI.</br>
-    <input type="checkbox" name="answer5" value="c">c) HSBC Bank.</br>
-    <input type="checkbox" name="answer5" value="d">d) HDFC Bank.</br>
+    <input type="checkbox" name="answer14" value="a">a) SBI.</br>
+    <input type="checkbox" name="answer14" value="b">b) RBI.</br>
+    <input type="checkbox" name="answer14" value="c">c) HSBC Bank.</br>
+    <input type="checkbox" name="answer14" value="d">d) HDFC Bank.</br>
     </br></br></br>
 
     Q15. ATM card was introduced in India by:</br></br>
-    <input type="checkbox" name="answer5" value="a">a) HSBC Bank.</br>
-    <input type="checkbox" name="answer5" value="b">b) Corporation Bank.</br>
-    <input type="checkbox" name="answer5" value="c">c) ICICI Bank.</br>
-    <input type="checkbox" name="answer5" value="d">d) State Bank Of India.</br>
+    <input type="checkbox" name="answer15" value="a">a) HSBC Bank.</br>
+    <input type="checkbox" name="answer15" value="b">b) Corporation Bank.</br>
+    <input type="checkbox" name="answer15" value="c">c) ICICI Bank.</br>
+    <input type="checkbox" name="answer15" value="d">d) State Bank Of India.</br>
     </br></br></br>
 
     Q16. Recently the World Health Organization declared which virus an international health emergency?</br></br>
-    <input type="checkbox" name="answer5" value="a">a) Ebola.</br>
-    <input type="checkbox" name="answer5" value="b">b) Polio.</br>
-    <input type="checkbox" name="answer5" value="c">c) Corona.</br>
-    <input type="checkbox" name="answer5" value="d">d) Calseburg.</br>
+    <input type="checkbox" name="answer16" value="a">a) Ebola.</br>
+    <input type="checkbox" name="answer16" value="b">b) Polio.</br>
+    <input type="checkbox" name="answer16" value="c">c) Corona.</br>
+    <input type="checkbox" name="answer16" value="d">d) Calseburg.</br>
     </br></br></br>
 
     Q17. Global Wealth and lifestyle report were recently launched by Swiss bank, Julius Baer. Which city tops the list of world’s costliest cities according to it?</br></br>
-    <input type="checkbox" name="answer5" value="a">a) Barcelona.</br>
-    <input type="checkbox" name="answer5" value="b">b) Mumbai.</br>
-    <input type="checkbox" name="answer5" value="c">c) London.</br>
-    <input type="checkbox" name="answer5" value="d">d) Hong Kong.</br>
+    <input type="checkbox" name="answer17" value="a">a) Barcelona.</br>
+    <input type="checkbox" name="answer17" value="b">b) Mumbai.</br>
+    <input type="checkbox" name="answer17" value="c">c) London.</br>
+    <input type="checkbox" name="answer17" value="d">d) Hong Kong.</br>
     </br></br></br>
 
 
     Q18.BRICS Nation means ?</br></br>
-    <input type="checkbox" name="answer5" value="a">a) Brasil, Russia, India, China, South Africa.</br>
-    <input type="checkbox" name="answer5" value="b">b) Britain, Russia, India, China, Singapore.</br>
-    <input type="checkbox" name="answer5" value="c">c) Brasil, Romania, Italy, China, Sweden.</br>
-    <input type="checkbox" name="answer5" value="d">d) Britain, Russia, India, China, Singapore.</br>
+    <input type="checkbox" name="answer18" value="a">a) Brasil, Russia, India, China, South Africa.</br>
+    <input type="checkbox" name="answer18" value="b">b) Britain, Russia, India, China, Singapore.</br>
+    <input type="checkbox" name="answer18" value="c">c) Brasil, Romania, Italy, China, Sweden.</br>
+    <input type="checkbox" name="answer18" value="d">d) Britain, Russia, India, China, Singapore.</br>
     </br></br></br>
 
 
 
     Q19. Arun's present age in years is 40% of Barun's. In another few years, Arun's age will be half of Barun's. By what percentage will Barun's age increase during this period?</br></br>
-    <input type="checkbox" name="answer6" value="a">a)  25.</br>
-    <input type="checkbox" name="answer6" value="b">b)  20.</br>
-    <input type="checkbox" name="answer6" value="c">c)  15.</br>
-    <input type="checkbox" name="answer6" value="d">d)  27.</br>
+    <input type="checkbox" name="answer19" value="a">a)  25.</br>
+    <input type="checkbox" name="answer19" value="b">b)  20.</br>
+    <input type="checkbox" name="answer19" value="c">c)  15.</br>
+    <input type="checkbox" name="answer19" value="d">d)  27.</br>
     </br></br></br>
 
 
     Q20. An elevator has a weight limit of 630 kg. It is carrying a group of people of whom the heaviest weighs 57 kg and the lightest weighs 53 kg. What is the maximum possible number of people in the group?</br></br>
-    <input type="checkbox" name="answer7" value="a">a) 10.</br>
-    <input type="checkbox" name="answer7" value="b">b) 11.</br>
-    <input type="checkbox" name="answer7" value="c">c) 12.</br>
-    <input type="checkbox" name="answer7" value="d">d) 13.</br>
+    <input type="checkbox" name="answer20" value="a">a) 10.</br>
+    <input type="checkbox" name="answer20" value="b">b) 11.</br>
+    <input type="checkbox" name="answer20" value="c">c) 12.</br>
+    <input type="checkbox" name="answer20" value="d">d) 13.</br>
   </br></br></br>
 
 
   Q21. The sensitive index of National Stock Exchange of India is popularly known as: </br></br>
-  <input type="checkbox" name="answer8" value="a">a) SENSEX.</br>
-  <input type="checkbox" name="answer8" value="b">b) CRIS.</br>
-  <input type="checkbox" name="answer8" value="c">c) NIFTY.</br>
-  <input type="checkbox" name="answer8" value="d">d) MCS.</br>
+  <input type="checkbox" name="answer21" value="a">a) SENSEX.</br>
+  <input type="checkbox" name="answer21" value="b">b) CRIS.</br>
+  <input type="checkbox" name="answer21" value="c">c) NIFTY.</br>
+  <input type="checkbox" name="answer21" value="d">d) MCS.</br>
 </br>
 </br>
 
 
   Q22.The main index/indices of NYSE is/are:</br></br>
-  <input type="checkbox" name="answer5" value="a">a) Dow Jones Industrial Average.</br>
-  <input type="checkbox" name="answer5" value="b">b) NYSE Composite.</br>
-  <input type="checkbox" name="answer5" value="c">c) S&P 500.</br>
-  <input type="checkbox" name="answer5" value="d">d) All of the above.</br>
+  <input type="checkbox" name="answer22" value="a">a) Dow Jones Industrial Average.</br>
+  <input type="checkbox" name="answer22" value="b">b) NYSE Composite.</br>
+  <input type="checkbox" name="answer22" value="c">c) S&P 500.</br>
+  <input type="checkbox" name="answer22" value="d">d) All of the above.</br>
   </br></br></br>
 
 
   Q23.Recently, which bank has switched to OTP based cash withdrawal for all its Atms in India?</br></br>
-  <input type="checkbox" name="answer5" value="a">a) Axis Bank.</br>
-  <input type="checkbox" name="answer5" value="b">b) HDFC Bank.</br>
-  <input type="checkbox" name="answer5" value="c">c) Andra Bank.</br>
-  <input type="checkbox" name="answer5" value="d">d) State Bank of India.</br>
+  <input type="checkbox" name="answer23" value="a">a) Axis Bank.</br>
+  <input type="checkbox" name="answer23" value="b">b) HDFC Bank.</br>
+  <input type="checkbox" name="answer23" value="c">c) Andra Bank.</br>
+  <input type="checkbox" name="answer23" value="d">d) State Bank of India.</br>
   </br></br></br>
 
 
   Q24.GBP is the currency of which country ?</br></br>
-  <input type="checkbox" name="answer5" value="a">a) Britain.</br>
-  <input type="checkbox" name="answer5" value="b">b) Italy.</br>
-  <input type="checkbox" name="answer5" value="c">c) China.</br>
-  <input type="checkbox" name="answer5" value="d">d) France.</br>
+  <input type="checkbox" name="answer24" value="a">a) Britain.</br>
+  <input type="checkbox" name="answer24" value="b">b) Italy.</br>
+  <input type="checkbox" name="answer24" value="c">c) China.</br>
+  <input type="checkbox" name="answer24" value="d">d) France.</br>
   </br></br></br>
 
 
   Q25.Rajat Gupta, the former head of McKinsey and Co. was convicted on insider trading and spent two years in prison. He is also the cofounder of which of the following Institutions?</br></br>
-  <input type="checkbox" name="answer5" value="a">a) ICFAI Business School. </br>
-  <input type="checkbox" name="answer5" value="b">b) Indian School of Business.</br>
-  <input type="checkbox" name="answer5" value="c">c) Ashoka University.</br>
-  <input type="checkbox" name="answer5" value="d">d) College of Revenue and Finance.</br>
+  <input type="checkbox" name="answer25" value="a">a) ICFAI Business School. </br>
+  <input type="checkbox" name="answer25" value="b">b) Indian School of Business.</br>
+  <input type="checkbox" name="answer25" value="c">c) Ashoka University.</br>
+  <input type="checkbox" name="answer25" value="d">d) College of Revenue and Finance.</br>
   </br></br></br>
 
   </br>

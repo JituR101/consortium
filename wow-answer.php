@@ -19,8 +19,23 @@
                 answer6 VARCHAR(255),
                 answer7 VARCHAR(255),
                 answer8 VARCHAR(255),
-                des1 VARCHAR(2000),
-                des2 VARCHAR(2000)
+                answer9 VARCHAR(255),
+                answer10 VARCHAR(255),
+                answer11 VARCHAR(255),
+                answer12 VARCHAR(255),
+                answer13 VARCHAR(255),
+                answer14 VARCHAR(255),
+                answer15 VARCHAR(255),
+                answer16 VARCHAR(255),
+                answer17 VARCHAR(255),
+                answer18 VARCHAR(255),
+                answer19 VARCHAR(255),
+                answer20 VARCHAR(255),
+                answer21 VARCHAR(255),
+                answer22 VARCHAR(255),
+                answer23 VARCHAR(255),
+                answer24 VARCHAR(255),
+                answer25 VARCHAR(255)
                 )";
 
     mysqli_query($con,$brainquery);
@@ -42,12 +57,27 @@
               $answer6=$_POST['answer6'];
               $answer7=$_POST['answer7'];
               $answer8=$_POST['answer8'];
-              $des1=$_POST['des1'];
-              $des2=$_POST['des2'];
+              $answer9=$_POST['answer9'];
+              $answer10=$_POST['answer10'];
+              $answer11=$_POST['answer11'];
+              $answer12=$_POST['answer12'];
+              $answer13=$_POST['answer13'];
+              $answer14=$_POST['answer14'];
+              $answer15=$_POST['answer15'];
+              $answer16=$_POST['answer16'];
+              $answer17=$_POST['answer17'];
+              $answer18=$_POST['answer18'];
+              $answer19=$_POST['answer19'];
+              $answer20=$_POST['answer20'];
+              $answer21=$_POST['answer21'];
+              $answer22=$_POST['answer22'];
+              $answer23=$_POST['answer23'];
+              $answer24=$_POST['answer24'];
+              $answer25=$_POST['answer25'];
 
 
-              $sql = "INSERT INTO wow-answer (team_name,answer1,answer2,answer3,answer4,answer5,answer6,answer7,answer8,des1,des2)
-                      VALUES ('$team_name' , '$answer1','$answer2','$answer3','$answer4','$answer5','$answer6','$answer7','$answer8','$des1','$des2')";
+              $sql = "INSERT INTO wow-answer (team_name,answer1,answer2,answer3,answer4,answer5,answer6,answer7,answer8,answer9,answer10,answer11,answer12,answer13,answer14,answer15,answer16,answer17,answer18,answer19,answer20,answer21,answer22,answer23,answer24,answer25)
+                      VALUES ('$team_name' , '$answer1','$answer2','$answer3','$answer4','$answer5','$answer6','$answer7','$answer8','$answer9','$answer10','$answer11','$answer12','$answer13','$answer14','$answer15','$answer16','$answer17','$answer18','$answer19','$answer20','$answer21','$answer22','$answer23','$answer24','$answer25')";
               if(mysqli_query($con,$sql)) {
                 header("location: success.php");
                 }
